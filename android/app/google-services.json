@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "97774904004",
+    "project_id": "connectfirebase-3c7a0",
+    "storage_bucket": "connectfirebase-3c7a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97774904004:android:8e68eb7ee50d4418645f91",
+        "android_client_info": {
+          "package_name": "com.example.formvalid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97774904004-d7qoqcqb5rgopir7vdb2hnh6fh3st8u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGOqP3dE4Pbb60SJZrGwrThNkIZVkPKs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97774904004-d7qoqcqb5rgopir7vdb2hnh6fh3st8u7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97774904004:android:5c000bbc7ee3d91d645f91",
+        "android_client_info": {
+          "package_name": "com.example.student_attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97774904004-d7qoqcqb5rgopir7vdb2hnh6fh3st8u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGOqP3dE4Pbb60SJZrGwrThNkIZVkPKs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97774904004-d7qoqcqb5rgopir7vdb2hnh6fh3st8u7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
